@@ -1,0 +1,56 @@
+[
+    {
+        "bookID": 5,
+        "title": "Curious George",
+        "author": "H. A. Rey",
+        "publicationYear": "1941"
+    },
+    {
+        "bookID": 6,
+        "title": "Alice's Adventures in Wonderland",
+        "author": "Lewis Carroll",
+        "publicationYear": "1865"
+    },
+    {
+        "bookID": 7,
+        "title": "Corduroy",
+        "author": "Don Freeman",
+        "publicationYear": "1968"
+    },
+    {
+        "bookID": 8,
+        "title": "alakdan",
+        "author": "abc",
+        "publicationYear": "1995"
+    },
+    {
+        "bookID": 10,
+        "title": "test call ",
+        "author": "method",
+        "publicationYear": "7777"
+    },
+    {
+        "bookID": 11,
+        "title": "Brooklyn 99",
+        "author": "Bryon Kurt",
+        "publicationYear": "2020"
+    },
+    {
+        "bookID": 12,
+        "title": "Hunger Games",
+        "author": "Suzzane Collins",
+        "publicationYear": "2010"
+    },
+    {
+        "bookID": 13,
+        "title": "Brooklyn 99",
+        "author": "Jake Peralta",
+        "publicationYear": "2017"
+    },
+    {
+        "bookID": 14,
+        "title": "Stainless longganisa",
+        "author": "Bob Ong",
+        "publicationYear": "2006"
+    }
+]
